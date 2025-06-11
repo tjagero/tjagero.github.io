@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Challenges"
-permalink: /challenges/
+permalink: /Challenges/
 author_profile: true
 ---
 
