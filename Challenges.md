@@ -58,8 +58,9 @@ Deploy a serverless photo album using S3, Lambda, DynamoDB, and API Gateway.
 ---
 
 ### 🧠 Azure AI Fundamentals Skills Challenge
-
-![Azure AI Challenge](/assets/images/azure-ai.jpeg)
+<p>
+<img src="/assets/images/azure-ai.jpeg" alt="Azure AI Fundamentals Screenshot" width="1000px"/>
+</p>
 
 **Problem Statement:**  
 Build and train a machine learning model using Azure ML Studio for sentiment analysis.
