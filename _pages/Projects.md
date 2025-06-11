@@ -45,14 +45,15 @@ Ensure system administrators had the appropriate level of access based on their 
 ## Project 2: Securing Azure Virtual Networks through Network Segmentation
 
 <div style="margin-bottom: 30px;">
-<img src="/assets/images/Least-Privilege.png" alt="least privilege image" width="1000px"/>
+<img src="/assets/images/virtual-network.png" alt="virtual network" width="1000px"/>
 </div>
 
-**Project Type:** Guided Lab Project  
-**Tools & Technologies:** Microsoft Azure, Virtual Networks, Subnets, Azure VM, NSG, Public/Private IPs  
+**Description:**
+This project focused on designing and implementing secure virtual networking in Microsoft Azure to accommodate existing resources and support future scalability. Security was prioritized by segmenting networks appropriately, isolating resources using subnets, and restricting access through Network Security Groups (NSGs), effectively simulating a production-grade environment with secure interconnectivity.
 
-**Overview:**  
-This project focused on implementing secure virtual networking in Microsoft Azure by segmenting networks, restricting access through NSGs, and isolating resources using subnets to simulate a production-grade environment.
+---
+
+**Tools & Technologies:** Microsoft Azure, Virtual Networks, Subnets, Azure VM, NSG, Public/Private IPs  
 
 **Key Actions:**  
 - Designed a segmented Azure VNet with public and private subnets  
