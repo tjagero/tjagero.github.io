@@ -34,3 +34,62 @@ Ensure system administrators had the appropriate level of access based on their 
 
 **Link to full article:**  
 [Read on Medium](https://medium.com/@jageroteddy/enforcing-least-privilege-with-iam-permissions-boundaries-in-aws-375d14757dec)
+
+
+## Project 2: Streamlining Network Resources to Ensure Instance Security 
+
+<div style="margin-bottom: 30px;">
+<img src="/assets/images/Least-Privilege.png" alt="least privilege image" width="1000px"/>
+</div>
+
+### Overview
+
+In this hands-on AWS networking project, I secured a private EC2 instance from public exposure while maintaining secure access to S3 and the internet. This involved creating a VPC Endpoint for S3 access and a NAT Gateway to allow internet access for updates, without exposing the instance publicly.
+
+---
+
+### Key Problem
+
+- The private EC2 instance lacked internet access for updates and couldn't reach Amazon S3 securely.
+- There was no VPC endpoint for S3 or NAT Gateway set up.
+- This setup led to inefficient and insecure resource access within the VPC.
+
+---
+
+### Solution Implemented
+
+- Created a **VPC Gateway Endpoint** for S3, allowing internal secure access without internet traversal.
+- Created and configured a **NAT Gateway** to provide secure, outbound-only internet access.
+- Updated route tables to reflect secure traffic flow.
+
+---
+
+### Tools & Services Used
+
+- AWS VPC
+- EC2 (Bastion and Private Instances)
+- VPC Endpoints (S3)
+- NAT Gateway
+- Elastic IP
+- Amazon CLI
+
+---
+
+### Key Benefits
+
+- Secured the private EC2 instance while enabling essential internet connectivity.
+- Enabled access to S3 via private AWS backbone.
+- Reduced attack surface and followed best practices for network segmentation.
+
+---
+
+
+### Skills Demonstrated
+
+- AWS Networking (VPC, Subnets, NAT Gateway)
+- Security Best Practices
+- EC2 Connectivity
+- Infrastructure Design and Implementation
+
+**Link to full article:**  
+[Read on Medium](https://medium.com/@jageroteddy/streamlining-network-resources-to-ensure-instance-security-106b760f3cef)
