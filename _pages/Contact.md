@@ -10,8 +10,19 @@ author_profile: true
 - 📧 Email:
   jageroteddy@gmail.com
   
-- 💼 LinkedIn:
-  https://www.linkedin.com/in/teddy-jagero/
-  
-- 🌍 GitHub:
-  https://github.com/tjagero
+ - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tjagero"
+   
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/teddy-jagero/"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tjagero"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/teddy-jagero/"
