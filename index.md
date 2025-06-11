@@ -6,7 +6,8 @@ layout: single
 author_profile: true
 title: "Welcome to My Portfolio"
 ---
-
+---
+</br><br>
 Hi there! 👋 I am **Teddy Jagero**, an aspiring cloud security specialist and cloud enthusiast.  
 Welcome to my portfolio where I showcase my **projects**, **lab challenges**, and **professional background**.
 
