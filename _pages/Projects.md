@@ -29,4 +29,4 @@ Ensure system administrators had the appropriate level of access based on their 
 - Ensured security while maintaining role-based flexibility
 
 **Link to full article:**  
-[Read on Medium](https://medium.com/@jageroteddy/enforcing-least-privilege-with-iam-permissions-boundaries-in-aws-716dc96ab540)
+[Read on Medium](https://medium.com/@jageroteddy/enforcing-least-privilege-with-iam-permissions-boundaries-in-aws-375d14757dec)
