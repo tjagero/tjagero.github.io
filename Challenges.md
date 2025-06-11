@@ -11,7 +11,7 @@ author_profile: true
 
 ### 🔐 Cyber Shujaa: Vulnerability Assessment Lab
 
-![Vulnerability Assessment](/assets/images/vuln-assessment.jpeg)
+<img src="/assets/images/vuln-assessment.jpeg" alt="Vulnerability Assessment Lab" width="1000px"/>
 
 
 **Problem Statement:**  
