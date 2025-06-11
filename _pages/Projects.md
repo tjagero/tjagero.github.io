@@ -1,11 +1,16 @@
 ---
 layout: single
 permalink: /Projects/
-title: "📁 Projects"
+title: " Projects"
 ---
+## 📁 Projects
 
+1. **Enforcing Least Privilege with IAM Permissions Boundaries in AWS**
+2. **Designing and Deploying Virtual Networks in Microsoft Azure**
+3. **Streamlining Network Resources to Ensure Instance Security**
 
-### 🔐 Enforcing Least Privilege with IAM Permissions Boundaries in AWS
+---
+### 1. 🔐 Enforcing Least Privilege with IAM Permissions Boundaries in AWS
 
 <div style="margin-bottom: 30px;">
 <img src="/assets/images/Least-Privilege.png" alt="least privilege image" width="1000px"/>
@@ -37,7 +42,33 @@ Ensure system administrators had the appropriate level of access based on their 
 ---
 ---
 
-## Project 2: Streamlining Network Resources to Ensure Instance Security 
+## Project 2: Securing Azure Virtual Networks through Network Segmentation
+
+<div style="margin-bottom: 30px;">
+<img src="/assets/images/Least-Privilege.png" alt="least privilege image" width="1000px"/>
+</div>
+
+**Project Type:** Guided Lab Project  
+**Tools & Technologies:** Microsoft Azure, Virtual Networks, Subnets, Azure VM, NSG, Public/Private IPs  
+
+**Overview:**  
+This project focused on implementing secure virtual networking in Microsoft Azure by segmenting networks, restricting access through NSGs, and isolating resources using subnets to simulate a production-grade environment.
+
+**Key Actions:**  
+- Designed a segmented Azure VNet with public and private subnets  
+- Deployed VMs and configured secure communication paths  
+- Applied Network Security Groups (NSGs) to enforce traffic control policies  
+- Ensured secure access to VMs using only allowed ports and sources  
+
+**Results:**  
+Enhanced security posture by minimizing exposure, enforcing least privilege access, and maintaining secure connectivity within the virtual environment.
+
+**Detailed Documentation:** [See attached PDF]
+
+---
+---
+
+## Project 3: Streamlining Network Resources to Ensure Instance Security 
 
 <div style="margin-bottom: 30px;">
 <img src="/assets/images/bastion.png" alt="bastion image" width="1000px"/>
