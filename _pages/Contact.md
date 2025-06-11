@@ -1,28 +1,14 @@
 ---
+layout: single
 title: "Contact"
 permalink: /Contact/
-layout: single
 author_profile: true
 ---
 
 ## Contact Me
 
-- 📧 Email:
-  jageroteddy@gmail.com
-  
- - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tjagero"
-   
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/teddy-jagero/"
+- <i class="fas fa-envelope"></i> **Email**: [jageroteddy@gmail.com](mailto:jageroteddy@gmail.com)  
+- <i class="fab fa-linkedin"></i> **LinkedIn**: [linkedin.com/in/teddy-jagero](https://linkedin.com/in/teddy-jagero)  
+- <i class="fab fa-github"></i> **GitHub**: [github.com/tjagero](https://github.com/tjagero)
 
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tjagero"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/teddy-jagero/"
+
