@@ -1,17 +1,24 @@
----
-layout: single
-title: "Projects"
-permalink: /Projects/
-author_profile: true
----
+### 🔐 Enforcing Least Privilege with IAM Permissions Boundaries in AWS
 
-## Projects
+**Description:**  
+In this hands-on project, I acted as a Cloud Security Engineer for a fictional startup, Mama Bear Catering & Pastry. My role involved setting up IAM users and enforcing the principle of least privilege using permissions boundaries in AWS.
 
-### 🍰 Online Catering & Cake Ordering Website  
-A website for showcasing and ordering cakes online, built with HTML/CSS/JavaScript.
+**Objective:**  
+Ensure system administrators had the appropriate level of access based on their roles, and restrict any unnecessary permissions to reduce security risks.
 
-### ☁️ AWS Hands-On Labs  
-Deployed serverless applications using Lambda, API Gateway, and DynamoDB.
+**Steps Taken:**
+- Created three system administrator IAM users (`sysadmin-1`, `sysadmin-2`, and `sysadmin-3`)
+- Created a `Sysadmins` IAM group with an AdministratorAccess policy
+- Assigned EC2 permissions boundary to `sysadmin-2` and S3 permissions boundary to `sysadmin-3`
+- Verified that users could only access services they were permitted to (e.g., `sysadmin-3` could not launch EC2 instances)
 
-### 🔒 Cyber Shujaa Capstone  
-Cloud & Network Security implementation using ISO 27001, firewall rules, and vulnerability assessments.
+**Technologies Used:**  
+`AWS IAM`, `IAM Permissions Boundaries`, `EC2`, `S3`, `AWS Console`, `Least Privilege Principle`
+
+**Key Achievements:**  
+- Demonstrated a practical use of IAM boundaries to enforce least privilege
+- Successfully limited administrator capabilities by service
+- Ensured security while maintaining role-based flexibility
+
+**Link to full article:**  
+[Read on Medium](https://medium.com/@jageroteddy/enforcing-least-privilege-with-iam-permissions-boundaries-in-aws-716dc96ab540)
