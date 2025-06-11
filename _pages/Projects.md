@@ -17,7 +17,7 @@ In this hands-on project, I acted as a Cloud Security Engineer for a fictional s
 
 **Objective:**  
 Ensure system administrators had the appropriate level of access based on their roles, and restrict any unnecessary permissions to reduce security risks.
----
+
 **Steps Taken:**
 - Created three system administrator IAM users (`sysadmin-1`, `sysadmin-2`, and `sysadmin-3`)
 - Created a `Sysadmins` IAM group with an AdministratorAccess policy
@@ -26,7 +26,7 @@ Ensure system administrators had the appropriate level of access based on their 
 
 **Technologies Used:**  
 `AWS IAM`, `IAM Permissions Boundaries`, `EC2`, `S3`, `AWS Console`, `Least Privilege Principle`
----
+
 **Key Achievements:**  
 - Demonstrated a practical use of IAM boundaries to enforce least privilege
 - Successfully limited administrator capabilities by service
@@ -48,7 +48,7 @@ Ensure system administrators had the appropriate level of access based on their 
 
 In this hands-on AWS networking project, I secured a private EC2 instance from public exposure while maintaining secure access to S3 and the internet. This involved creating a VPC Endpoint for S3 access and a NAT Gateway to allow internet access for updates, without exposing the instance publicly.
 
----
+
 
 ### Key Problem
 
@@ -56,7 +56,7 @@ In this hands-on AWS networking project, I secured a private EC2 instance from p
 - There was no VPC endpoint for S3 or NAT Gateway set up.
 - This setup led to inefficient and insecure resource access within the VPC.
 
----
+
 
 ### Solution Implemented
 
@@ -64,7 +64,7 @@ In this hands-on AWS networking project, I secured a private EC2 instance from p
 - Created and configured a **NAT Gateway** to provide secure, outbound-only internet access.
 - Updated route tables to reflect secure traffic flow.
 
----
+
 
 ### Tools & Services Used
 
@@ -75,7 +75,7 @@ In this hands-on AWS networking project, I secured a private EC2 instance from p
 - Elastic IP
 - Amazon CLI
 
----
+
 
 ### Key Benefits
 
@@ -83,7 +83,7 @@ In this hands-on AWS networking project, I secured a private EC2 instance from p
 - Enabled access to S3 via private AWS backbone.
 - Reduced attack surface and followed best practices for network segmentation.
 
----
+
 
 
 ### Skills Demonstrated
