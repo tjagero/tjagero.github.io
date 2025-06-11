@@ -21,6 +21,7 @@ to ensure secure and efficient environments.
 
 - BSc in Information Technology – Mount Kenya University  
 - Cloud and Network Security - Cyber shujaa (USIU)
+- ALX Cloud Computing Program - ALX
 
 ## Certifications
 
