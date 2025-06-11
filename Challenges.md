@@ -37,7 +37,9 @@ Scan a simulated enterprise network, identify vulnerabilities, and recommend rem
 ### ☁️ AWS Skill Builder: Serverless Web App Deployment
 
 <div style="margin-top: 20px;">
-![AWS Lambda Challenge](/assets/images/lambda-serverless.png)
+  
+<img src="/assets/images/lambda-serverless.png" alt="Lambda Deployment Screenshot" width="1000px"/>
+
 </div>
 
 **Problem Statement:**  
