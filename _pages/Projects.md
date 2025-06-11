@@ -45,7 +45,7 @@ Ensure system administrators had the appropriate level of access based on their 
 ## Project 2: Securing Azure Virtual Networks through Network Segmentation
 
 <div style="margin-bottom: 30px;">
-<img src="/assets/images/virtual-network.png" alt="virtual network" width="1000px"/>
+<img src="/assets/images/virtual-network.png" alt="virtual network" width="500px"/>
 </div>
 
 **Description:**
