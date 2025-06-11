@@ -1,11 +1,10 @@
 ---
 layout: single
 permalink: /Projects/
-title: "Projects"
+title: "📁 Projects"
 ---
 
-## 📁 Projects
----
+
 ### 🔐 Enforcing Least Privilege with IAM Permissions Boundaries in AWS
 
 <div style="margin-bottom: 30px;">
