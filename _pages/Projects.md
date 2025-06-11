@@ -1,8 +1,7 @@
 ---
-title: "Projects"
 layout: single
 permalink: /Projects/
-author_profile: true
+title: "Projects"
 ---
 
 ### ☁️ AWS Hands-On Labs 
