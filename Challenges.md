@@ -34,7 +34,7 @@ Scan a simulated enterprise network, identify vulnerabilities, and recommend rem
 
 ### ☁️ AWS Skill Builder: Serverless Web App Deployment
 
-<img src="https://drive.google.com/uc?export=view&id=1RhvAXt80xbT4WdW53jdCMq7HXdhEmM7Y" alt="AWS Serverless Lab" style="width: 100%; max-width: 800px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: 10px auto; display: block;" />
+![AWS Lambda Scenario](https://drive.google.com/uc?export=view&id=1RhvAXt80xbT4WdW53jdCMq7HXdhEmM7Y)
 
 **Problem Statement:**  
 Deploy a serverless photo album using S3, Lambda, DynamoDB, and API Gateway.
