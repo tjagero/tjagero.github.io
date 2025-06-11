@@ -1,7 +1,16 @@
 ---
+layout: single
 permalink: /Resume/
 title: "Resume"
 ---
+
+## Professional Summary
+
+   Cloud Security and IT Support Specialist with hands-on experience in securing cloud 
+infrastructures and solving complex IT issues. Skilled in AWS, Azure, network security, 
+and cloud computing technologies. Proven ability to implement robust security solutions 
+and maintain optimized IT systems. Passionate about leveraging cloud security expertise 
+to ensure secure and efficient environments. 
 
 ## Experience
 -  IT Operations Assistant - International Medical Coprs (Dec 2024 - to date)
