@@ -11,7 +11,8 @@ author_profile: true
 
 ### 🔐 Cyber Shujaa: Vulnerability Assessment Lab
 
-![Vulnerability Assessment](https://drive.google.com/uc?export=view&id=1eGdGW8Elxl8Tn5AXkkUh126xRZImmXHr)
+![Vulnerability Assessment](/assets/images/vuln-assessment.jpeg)
+
 
 **Problem Statement:**  
 Scan a simulated enterprise network, identify vulnerabilities, and recommend remediation based on ISO 27001 standards.
@@ -34,7 +35,7 @@ Scan a simulated enterprise network, identify vulnerabilities, and recommend rem
 
 ### ☁️ AWS Skill Builder: Serverless Web App Deployment
 
-![AWS Lambda Challenge](https://drive.google.com/uc?export=view&id=1RhvAXt80xbT4WdW53jdCMq7HXdhEmM7Y)
+![AWS Lambda Challenge](/assets/images/lambda-serverless.png)
 
 **Problem Statement:**  
 Deploy a serverless photo album using S3, Lambda, DynamoDB, and API Gateway.
@@ -58,7 +59,7 @@ Deploy a serverless photo album using S3, Lambda, DynamoDB, and API Gateway.
 
 ### 🧠 Azure AI Fundamentals Skills Challenge
 
-![Azure AI Challenge](https://drive.google.com/uc?export=view&id=1hKB_6Zu206XE1xxMGxohNl6534cP663G)
+![Azure AI Challenge](/assets/images/azure-ai.jpeg)
 
 **Problem Statement:**  
 Build and train a machine learning model using Azure ML Studio for sentiment analysis.
