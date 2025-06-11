@@ -1,3 +1,11 @@
+---
+layout: single
+permalink: /Projects/
+title: "Projects"
+---
+
+## 📁 Projects
+
 ### 🔐 Enforcing Least Privilege with IAM Permissions Boundaries in AWS
 
 **Description:**  
