@@ -65,6 +65,7 @@ This project focused on designing and implementing secure virtual networking in 
 Enhanced security posture by minimizing exposure, enforcing least privilege access, and maintaining secure connectivity within the virtual environment.
 
 **Detailed Documentation:** [See attached PDF]
+<iframe src="https://drive.google.com/file/d/11inRnxA-7RrH5WE0BZpH_RxfEMAXtlM6/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ---
 ---
