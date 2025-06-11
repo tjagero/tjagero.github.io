@@ -11,7 +11,7 @@ author_profile: true
 
 ### 🔐 Cyber Shujaa: Vulnerability Assessment Lab
 
-<img src="https://drive.google.com/uc?export=view&id=1eGdGW8Elxl8Tn5AXkkUh126xRZImmXHr" alt="Cyber Shujaa Lab" style="width: 100%; max-width: 800px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: 10px auto; display: block;" />
+![Vulnerability Assessment](https://drive.google.com/uc?export=view&id=1eGdGW8Elxl8Tn5AXkkUh126xRZImmXHr)
 
 **Problem Statement:**  
 Scan a simulated enterprise network, identify vulnerabilities, and recommend remediation based on ISO 27001 standards.
@@ -34,7 +34,7 @@ Scan a simulated enterprise network, identify vulnerabilities, and recommend rem
 
 ### ☁️ AWS Skill Builder: Serverless Web App Deployment
 
-![AWS Lambda Scenario](https://drive.google.com/uc?export=view&id=1RhvAXt80xbT4WdW53jdCMq7HXdhEmM7Y)
+![AWS Lambda Challenge](https://drive.google.com/uc?export=view&id=1RhvAXt80xbT4WdW53jdCMq7HXdhEmM7Y)
 
 **Problem Statement:**  
 Deploy a serverless photo album using S3, Lambda, DynamoDB, and API Gateway.
@@ -52,13 +52,13 @@ Deploy a serverless photo album using S3, Lambda, DynamoDB, and API Gateway.
 - Importance of IAM roles and policies for security  
 - Troubleshooting deployment errors via CloudWatch logs
 
-🔗 [Read More on Medium](https://medium.com/@jageroteddy/deploying-a-serverless-application-using-aws-lambda-api-gateway-and-dynamo-db-e2557d6b187f)
+🔗 [Read Full Blog on Medium](https://medium.com/@jageroteddy/deploying-a-serverless-application-using-aws-lambda-api-gateway-and-dynamo-db-e2557d6b187f)
 
 ---
 
 ### 🧠 Azure AI Fundamentals Skills Challenge
 
-<img src="https://drive.google.com/uc?export=view&id=1hKB_6Zu206XE1xxMGxohNl6534cP663G" alt="Azure ML Challenge" style="width: 100%; max-width: 800px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: 10px auto; display: block;" />
+![Azure AI Challenge](https://drive.google.com/uc?export=view&id=1hKB_6Zu206XE1xxMGxohNl6534cP663G)
 
 **Problem Statement:**  
 Build and train a machine learning model using Azure ML Studio for sentiment analysis.
@@ -76,7 +76,7 @@ Build and train a machine learning model using Azure ML Studio for sentiment ana
 - How to use drag-and-drop modules for training  
 - Real-world applications of sentiment analysis
 
-🔗 [See Credential & Summary](https://learn.microsoft.com/api/achievements/share/en-us/TeddyJagero-9474/CNFQJMK9?sharingId=6C79E1927CF270E0)
+🔗 [See Credential and Summary](https://learn.microsoft.com/api/achievements/share/en-us/TeddyJagero-9474/CNFQJMK9?sharingId=6C79E1927CF270E0)
 
 ---
 
