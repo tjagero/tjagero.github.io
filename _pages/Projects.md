@@ -8,11 +8,11 @@ title: "Projects"
 ---
 ---
 ### 🔐 Enforcing Least Privilege with IAM Permissions Boundaries in AWS
----
+
 <div style="margin-bottom: 30px;">
 <img src="/assets/images/Least-Privilege.png" alt="least privilege image" width="1000px"/>
 </div>
----
+
 **Description:**  
 In this hands-on project, I acted as a Cloud Security Engineer for a fictional startup, Mama Bear Catering & Pastry. My role involved setting up IAM users and enforcing the principle of least privilege using permissions boundaries in AWS.
 
