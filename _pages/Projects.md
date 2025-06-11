@@ -39,7 +39,7 @@ Ensure system administrators had the appropriate level of access based on their 
 ## Project 2: Streamlining Network Resources to Ensure Instance Security 
 
 <div style="margin-bottom: 30px;">
-<img src="/assets/images/Least-Privilege.png" alt="least privilege image" width="1000px"/>
+<img src="/assets/images/bastion.png" alt="bastion image" width="1000px"/>
 </div>
 
 ### Overview
