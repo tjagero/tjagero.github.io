@@ -6,7 +6,7 @@ title: " Projects"
 ## 📁 Projects
 
 1. **Enforcing Least Privilege with IAM Permissions Boundaries in AWS**
-2. **Designing and Deploying Virtual Networks in Microsoft Azure**
+2. **Securing Azure Virtual Networks through Network Segmentation**
 3. **Streamlining Network Resources to Ensure Instance Security**
 
 ---
